@@ -12,9 +12,6 @@ pip install pytz
 pip install tkcalendar
 pip install PyAutoGUI
 
-~Parvat Computer Technology 
-Follow us for such python project 
-YT: https://www.youtube.com/channel/UCJ2VzaGLrJk1JXGXE21hsQQ
-Instagram:https://www.instagram.com/pct_parvatcomputertechnology/
+
 
 
